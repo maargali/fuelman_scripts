@@ -1,3 +1,3 @@
-E:
+D:
 cd D:\fm-workspaces\dev\fuelman-ui
-npm run build
+start /B npm start
